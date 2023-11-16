@@ -1,0 +1,8 @@
+git config --global user.name Lohanylima
+git config --global user.email lohanyaiunydelima@gmail.com
+git clone https://github.com/Lohanylima/curriculo-simples.git
+
+Salvando no Git
+git add .
+git commit -m "Inicio dos código da página inicial"
+git push
